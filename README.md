@@ -1,5 +1,5 @@
 # Restaurant-Name-Generator
-This application will gives best cuisine and restaurant name depending on user selected country.
+This application will gives the best cuisine and restaurant name depending on user selected country.
 
 
 
@@ -14,5 +14,5 @@ Powered by [OpenRouter](https://openrouter.ai/) and **deepseek-r1** model.
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/YourUsername/Restaurant-Name-Generator.git
+git clone https://github.com/UserName/Restaurant-Name-Generator.git
 cd Restaurant-Name-Generator
